@@ -1,3 +1,5 @@
 
-email : admin@admin.com 
-mot de passe : adminadmin
+Git kullanarak yüklemek sıkıntı çıkardığı için rar. yapıp yüklenmiştir
+
+mail: admin@admin.com
+sifre: adminadmin
